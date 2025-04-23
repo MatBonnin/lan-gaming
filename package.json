@@ -48,5 +48,9 @@
     "extends": [
       "plugin:storybook/recommended"
     ]
-  }
+  },
+  "description": "MyDigitalArena est une application web en React, développée avec Vite, qui permet aux joueurs de s'enregistrer pour participer à un tournoi Rocket League en duo et de suivre le classement en Swiss bracket. Ce projet fait référence à MyDigitalSchool et s'inspire de l'univers des tournois pour offrir une expérience immersive et compétitive.",
+  "main": "eslint.config.js",
+  "author": "",
+  "license": "ISC"
 }
